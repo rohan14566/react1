@@ -1,0 +1,107 @@
+.main{
+  width: 100%;
+  height: 500px;
+  background-image: linear-gradient(To Top,blue,violet,white);
+}
+button{
+  position: relative;
+  top: 30px;
+  left: 250px;
+  width: 250px;
+  border-radius: 25px;
+  height: 50px;
+  background-color: aqua;
+  color:black;
+  text-align:center;
+  margin: 30px;
+} 
+.text{
+  text-shadow: 2px 2px 5px aqua;
+  color: black;
+  font-size: 24px;
+  text-align: center;
+}
+.create{
+  visibility:hidden;
+   position: relative;
+  bottom:400px;
+  left: 200px; 
+  width: 350px;
+  height: 200px;
+  font-size: 22px;
+  background-color: red;
+  text-align: center;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.create2{
+  visibility:none;
+  position: relative;
+  bottom: 250px;
+  left: 200px;
+  width: 350px;
+  height: 200px;
+  font-size: 22px;
+  background-color:aqua;
+  text-align: center;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.create p{
+  position: relative;
+  top: 10px;
+}
+.create2 p{
+  position: relative;
+  top: 10px;
+}
+#external{
+  color:black;
+  font-size: 16px;
+}
+#internal{
+  color: blue;   
+  font-size: 16px;
+}
+.create1{
+  display:hidden;
+  position: relative;
+  bottom:460px;
+  left: 600px;
+  width: 350px;
+  height: 200px;
+  font-size: 22px;
+  background-color: purple;
+  text-align: center;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.create3{
+  display:none;
+  position: relative;
+  bottom:460px;
+  left: 600px;
+  width: 350px;
+  height: 200px;
+  font-size: 22px;
+  background-color: purple;
+  text-align: center;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.create1 p{
+  position: relative;
+  top: 10px;
+}
+.create3 p{
+  position: relative;
+  top: 10px;
+}
+#external1{
+  color:black;
+  font-size: 16px;
+}
+#internal1{
+  color: blue;
+  font-size: 16px;
+}
